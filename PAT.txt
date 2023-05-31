@@ -1,3 +1,0 @@
-git remote add origin https://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@github.com/shellcodegroup/KPLC_Token_Consumplator.git
-
-git push -u origin main
